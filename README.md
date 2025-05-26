@@ -1,5 +1,6 @@
 #  Construcción de una Red Neuronal para Predecir Precios de Viviendas 
-
+# enlace del Proyecto en Google Colab
+https://colab.research.google.com/drive/18_icH6nRRv5AWGjj9aLkd1b5NDPqmK6z?usp=sharing
 
 
 Este proyecto tiene como finalidad aplicar conocimientos prácticos de *Machine Learning* para predecir precios de viviendas a partir de múltiples variables del entorno utilizando técnicas de **regresión lineal** y **redes neuronales artificiales**. Se desarrolló en Python y se apoya en herramientas como **TensorFlow/Keras**, **Scikit-learn**, **Pandas**, **Matplotlib** y **GitHub** para gestión de versiones.
