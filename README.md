@@ -1,4 +1,4 @@
-# 🧠 Construcción de una Red Neuronal para Predecir Precios de Viviendas 🏠
+#  Construcción de una Red Neuronal para Predecir Precios de Viviendas 
 
 
 
@@ -14,7 +14,7 @@ Está orientado a estudiantes, profesionales o entusiastas de la ciencia de dato
 
 
 
-## 🎯 Objetivo General
+##  Objetivo General
 
 
 
@@ -26,7 +26,7 @@ Desarrollar y comparar modelos de aprendizaje automático capaces de estimar el 
 
 
 
-## 📌 Objetivos Específicos
+##  Objetivos Específicos
 
 
 
@@ -44,7 +44,7 @@ Desarrollar y comparar modelos de aprendizaje automático capaces de estimar el 
 
 
 
-## 🔍 Metodología
+##  Metodología
 
 
 
@@ -114,7 +114,7 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
 
 
 
-## 📌 Conclusiones
+##  Conclusiones
 
 
 
@@ -132,7 +132,7 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
 
 
 
-## 💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 
 
