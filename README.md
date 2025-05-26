@@ -96,8 +96,6 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
 
 | Modelo        | MSE (Error Medio) | R² (Precisión) |
 
-|---------------|------------------|----------------|
-
 | Regresión Lineal | 1.233      | 0.075     |
 
 | Red Neuronal (Keras) | 0.267      | 0.796     |
